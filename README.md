@@ -1,5 +1,5 @@
 <div align="center" >
-  <img width="450px" align="center" src="./photo_2024-03-10_08-56-19-removebg-preview.png"<br>
+  <img width="250px" align="center" src="./photo_2024-03-10_08-56-19-removebg-preview.png"<br>
 <H1 align="center">WILCOM VOLHALTY <img  width="30" height="30" mar src="https://img.icons8.com/color/48/instagram-verification-badge.png" alt="instagram-verification-badge"/> </H1>
   </div>
   <h2>PROFICIENT IN :</h2>
