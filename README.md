@@ -4,7 +4,7 @@
   <p>One Line Can Ruin Everything! :)</p>
     </div>
     <h2>  <img src = "https://github.com/ThatNotEasy/ThatNotEasy/blob/main/resources/analytics.webp" width="17px">  PROFICIENT IN :</h2>
-   <img src="https://skillicons.dev/icons?i=js,html,css,py,php,dart,ae,pr,github,kali,flutter" />
+   <img src="https://skillicons.dev/icons?i=js,html,css,py,php,ae,pr,github,git,kali,wordpress,phpstorm,mysql,instagram" />
    <br>
 
 <h2><img src = "https://github.com/ThatNotEasy/ThatNotEasy/blob/main/resources/analytics.webp" width="17px">  Social Network :</h2>
